@@ -13,4 +13,4 @@ etc.
 IredMail, Modoboa, POSTFIX, Dvecot, Roundcube etc.
 # Troubleshooting like SMTP, DKIM, SPF Mail Configuration, Hosting Mail Configuration.
 # Gsuite-Workspace, Gmass Integration and Implemention.
-# Third Party Bulk Mail Service and API Integration--Sendgrid, AWS-AES, Gmass, Send Blue etc.
+# Third Party Bulk Mail Service and API Integration--Sendgrid, AWS-SES, Gmass, Send Blue etc.
